@@ -1,0 +1,9 @@
+[project]
+name = "intellimail"
+version = "0.1.0"
+description = "AI-powered Email Intelligence Platform"
+requires-python = ">=3.12"
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
